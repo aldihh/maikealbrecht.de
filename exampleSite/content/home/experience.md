@@ -35,7 +35,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
+  - title: Beraterin
     company: University X
     company_url: ''
     location: California
