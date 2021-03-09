@@ -35,7 +35,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor
+  - title: Test
     company: University X
     company_url: ''
     location: California
