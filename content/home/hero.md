@@ -3,11 +3,14 @@ widget: hero
 widget_id: hero
 headless: true
 weight: 10
+title: TESTSITE
+subtitle: Subtitle
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
+    color: "#2917ce"
 ---
 Test Test
