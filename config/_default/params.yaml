@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: s
 
 # SEO
 
@@ -20,23 +20,23 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: info@maikealbrecht.de
+phone: +49 (0) 174 929 89 20
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Bergedorfer Schloßstraße 31a
+  city: Hamburg
+  region: HH
+  postcode: '21021'
+  country: Deutschland
+  country_code: DEU
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Die Praxis befindet sich im 1. Stock
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://calendly.com/maikealbrecht'
 contact_links:
   - icon: twitter
     icon_pack: fab
