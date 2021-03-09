@@ -1,13 +1,10 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Maike Albrecht
+role: Bachelor of Science (Occupational Therapy)
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
