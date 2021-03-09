@@ -22,5 +22,5 @@ content:
 design:
   view: 2
   background:
-    image: /assets/media/zen.jpg
+    image: ""
 ---
