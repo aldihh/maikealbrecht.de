@@ -1,5 +1,5 @@
 ---
-widget: Blank
+widget: blank
 widget_id: Impressum
 headless: true
 weight: 10
