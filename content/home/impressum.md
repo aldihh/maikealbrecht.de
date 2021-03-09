@@ -4,7 +4,7 @@ widget_id: Impressum
 headless: true
 weight: 10
 title: Impressum
-active: true
+active: false
 design:
   columns: "2"
   background:
