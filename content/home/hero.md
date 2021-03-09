@@ -12,6 +12,6 @@ design:
     text_color_light: false
     image_darken: 0
     color: ""
-    image: ""
+    image: /assets/media/zen.jpg
 ---
 Test Test
