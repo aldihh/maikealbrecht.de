@@ -11,6 +11,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    color: "#2917ce"
+    color: ""
+    image: /assets/media/zen-2040340_1280.jpg
 ---
 Test Test
