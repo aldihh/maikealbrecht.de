@@ -2,7 +2,7 @@
 widget: hero
 widget_id: hero
 headless: true
-weight: 10
+weight: 80
 title: TESTSITE
 subtitle: Subtitle
 active: true
