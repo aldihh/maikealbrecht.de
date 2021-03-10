@@ -3,7 +3,7 @@ widget: hero
 widget_id: hero
 headless: true
 weight: 10
-title: <center> Systemische Beratung Maike Albrecht </center>
+title: Systemische Beratung Maike Albrecht
 subtitle: Subtitle
 active: true
 design:
@@ -15,4 +15,3 @@ design:
     gradient_start: ""
     gradient_end: ""
 ---
-<center> Test Test </center>
