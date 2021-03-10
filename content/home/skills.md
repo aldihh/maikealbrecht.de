@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Führungscoaching
 - description:
-  icon: Photography
+  icon: chart-line
   icon_pack: fas
   name: Beratung in herausfordernden beruflichen Situationen
 - description:
