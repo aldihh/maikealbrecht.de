@@ -25,17 +25,17 @@ feature:
   icon_pack: fas
   name: Führungscoaching
 - description:
-  icon: Beratung in herausfordernden beruflichen Situationen
+  icon: Photography
   icon_pack: fas
-  name: Photography
-- description: 10%
-  icon: Supervision
+  name: Beratung in herausfordernden beruflichen Situationen
+- description:
+  icon: Photography
   icon_pack: fas
-  name: Photography
-- description: 10%
-  icon: Teamentwicklung
+  name: Supervision
+- description:
+  icon: Photography
   icon_pack: fas
-  name: Photography
+  name: Supervision
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
