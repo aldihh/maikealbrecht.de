@@ -11,7 +11,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    color: ""
+#    color: ""
     image: "zen.jpg"
 ---
 Test Test
