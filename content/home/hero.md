@@ -9,9 +9,10 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
-    image_darken: 0
-#    color: ""
-    image: "zen.jpg"
+    text_color_light: true
+    image_darken: 1
+    image: zen.jpg
+    gradient_start: ""
+    gradient_end: ""
 ---
 Test Test
