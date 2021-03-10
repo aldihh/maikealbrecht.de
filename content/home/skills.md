@@ -29,13 +29,13 @@ feature:
   icon_pack: fas
   name: Beratung in herausfordernden beruflichen Situationen
 - description:
-  icon: Photography
+  icon: chart-line
   icon_pack: fas
   name: Supervision
 - description:
-  icon: Photography
+  icon: chart-line
   icon_pack: fas
-  name: Supervision
+  name: Teamentwicklung
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
