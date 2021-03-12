@@ -1,5 +1,4 @@
 ---
-title: Maike Albrecht
 role: Bachelor of Science (Occupational Therapy)
 avatar_filename: avatar.jpg
 bio: Ich interessiere mich für Systemische Beratung, Coaching und
@@ -9,12 +8,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-#  - icon: graduation-cap
-#    icon_pack: fas
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: xing
     icon_pack: fab
     link: https://www.xing.com/profile/Maike_Albrecht13
@@ -32,12 +25,11 @@ education:
     - course: Systemische Beratung
       institution: Institut für Systemische Studien Hamburg
       year: 2021
-email: ""
 superuser: true
 highlight_name: false
+title: Maike Albrecht
+email: ""
 ---
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Seit vielen Jahren beschäftige ich mich mit der Beratung von Klient:innen bei unterschiedlichsten Fragestellungen. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
