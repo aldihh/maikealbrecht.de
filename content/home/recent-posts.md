@@ -1,9 +1,9 @@
 ---
 widget: blank
-widget_id: recent-posts
+widget_id: Preise
 headless: true
 weight: 20
-title: PREISE
+title: Preise
 active: true
 design:
   columns: "2"
