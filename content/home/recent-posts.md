@@ -11,4 +11,6 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-> Einzelberatung 45min: 90 EUR
+Einzelberatung 45min: 90 EUR
+
+{{< hl >}}Test{{< /hl >}}.
