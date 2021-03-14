@@ -11,9 +11,9 @@ design:
     text_color_light: false
     image_darken: 0
 
- cta:
-  label: '**Newsletter bestellen**'
-  url: https://73aeced3.sibforms.com/serve/MUIEAJI0qUgdakAFwK-EDUDHQiR84XQfhxx0-rwE21d-OOdVyRrCfJaVrXrWz-bULweFv_c9tXnuqF6KyY5oAwtwRQk7Qd800c-txIIiHEDyDLpz1sS8kaw585mehrLatmNQSq6cVk1blj4Py-vZkLpL-jEzy_WUuCVgo-IkdMwSnHA_vWpUyM5eSyL5w-5Jn4KgEBLjjg3QVVM1
+cta:
+   label: '**Newsletter bestellen**'
+   url: https://73aeced3.sibforms.com/serve/MUIEAJI0qUgdakAFwK-EDUDHQiR84XQfhxx0-rwE21d-OOdVyRrCfJaVrXrWz-bULweFv_c9tXnuqF6KyY5oAwtwRQk7Qd800c-txIIiHEDyDLpz1sS8kaw585mehrLatmNQSq6cVk1blj4Py-vZkLpL-jEzy_WUuCVgo-IkdMwSnHA_vWpUyM5eSyL5w-5Jn4KgEBLjjg3QVVM1
 
 ---
 Liebe(r) Besucher:in,
