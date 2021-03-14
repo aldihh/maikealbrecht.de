@@ -11,9 +11,9 @@ design:
     text_color_light: false
     image_darken: 0
 
-cta:
-  label: '**Newsletter bestellen**'
-  url: https://wowchemy.com/templates/
+# cta:
+#  label: '**Newsletter bestellen**'
+#  url: https://wowchemy.com/templates/
 
 ---
 Liebe(r) Besucher:in,
@@ -24,4 +24,5 @@ Beste Grüße
 
 Maike
 
+<iframe width="540" height="305" src="https://73aeced3.sibforms.com/serve/MUIEAJI0qUgdakAFwK-EDUDHQiR84XQfhxx0-rwE21d-OOdVyRrCfJaVrXrWz-bULweFv_c9tXnuqF6KyY5oAwtwRQk7Qd800c-txIIiHEDyDLpz1sS8kaw585mehrLatmNQSq6cVk1blj4Py-vZkLpL-jEzy_WUuCVgo-IkdMwSnHA_vWpUyM5eSyL5w-5Jn4KgEBLjjg3QVVM1" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
