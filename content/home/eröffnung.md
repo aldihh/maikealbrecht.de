@@ -10,6 +10,11 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+
+cta:
+  label: '**Newsletter bestellen**'
+  url: https://wowchemy.com/templates/
+
 ---
 Liebe(r) Besucher:in,
 
@@ -19,6 +24,4 @@ Beste Grüße
 
 Maike
 
-cta:
-  label: '**Newsletter bestellen**'
-  url: https://wowchemy.com/templates/
+
