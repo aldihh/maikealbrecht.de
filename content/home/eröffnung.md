@@ -13,8 +13,12 @@ design:
 ---
 Liebe(r) Besucher:in,
 
-diese Seite befindet sich gerade im Aufbau. Ich eröffne meine Praxis zum 1. Mai 2021 und freue mich, wenn Du mich hier wieder besuchst.
+diese Seite befindet sich gerade im Aufbau. Ich eröffne meine Praxis zum 1. Mai 2021 und freue mich, wenn Du mich hier wieder besuchst. Ich halte Dich gerne auf dem Laufenden, wenn Du meinen Newsletter bestellst.
 
 Beste Grüße
 
 Maike
+
+cta:
+  label: '**Newsletter bestellen**'
+  url: https://wowchemy.com/templates/
