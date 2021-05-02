@@ -59,7 +59,7 @@ appointment_url: 'https://calendly.com/maikealbrecht'
 
 main_menu:
   enable: true
-  align: l
+  align: right
   show_logo: true
   show_language: false
   show_day_night: false
