@@ -27,13 +27,11 @@ design:
 
 <br>
 
-# Wer glücklich sein, will braucht Mut... 
+# Wer glücklich sein, will braucht Mut...
 
-Mut zur Veränderung, neue Brücken zu bauen, alte Pfade zu verlassen, und neue Wege zu gehen. 
+# Mut zur Veränderung, neue Brücken zu bauen, alte Pfade zu verlassen, und neue Wege zu gehen.
 
-Manchmal braucht es dazu eine Unterstützung!
-
-<br>
+# Manchmal braucht es dazu eine Unterstützung!
 
 <br>
 
