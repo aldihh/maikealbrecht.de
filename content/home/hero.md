@@ -11,7 +11,7 @@ design:
   background:
     text_color_light: true
     image_darken: 1
-    image: _site/assets/media/willkommen.jpg
+    image: willkommen.jpg
     gradient_start: ""
     gradient_end: ""
 ---
