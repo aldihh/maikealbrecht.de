@@ -11,7 +11,7 @@ design:
   background:
     text_color_light: true
     image_darken: 1
-    image: https://github.com/aldihh/maikealbrecht.de/blob/master/assets/media/willkommen.jpg
+    image: ""
     gradient_start: ""
     gradient_end: ""
 ---
