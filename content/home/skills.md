@@ -25,6 +25,10 @@ feature:
     icon: sitemap
     icon_pack: fas
     name: Teamentwicklung
+  - description: null
+    icon: baby-carriage
+    icon_pack: fas
+    name: Erziehungsfragen
 widget_id: Angebot
 active: true
 ---
