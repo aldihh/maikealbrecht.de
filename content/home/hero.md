@@ -15,10 +15,10 @@ design:
     gradient_start: ""
     gradient_end: ""
 cta:
-  label: '**Get Started**'
+  label: 'Buche einen kostenlosen Info-Termin'
   url: https://wowchemy.com/templates/
 cta_alt:
-  label: Ask a question
+  label: Lerne mehr über Systemische Beratung
   url: https://discord.gg/z8wNYzb
 ---
 <!--StartFragment-->
@@ -28,10 +28,6 @@ cta_alt:
 <br>
 
 # Wer glücklich sein, will braucht Mut... Mut zur Veränderung, neue Brücken zu bauen, alte Pfade zu verlassen, und neue Wege zu gehen. Manchmal braucht es dazu eine Unterstützung!
-
-<br>
-
-<br>
 
 <br>
 
