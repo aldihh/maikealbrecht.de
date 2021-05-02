@@ -14,6 +14,12 @@ design:
     image: willkommen.jpg
     gradient_start: ""
     gradient_end: ""
+cta:
+  label: '**Get Started**'
+  url: https://wowchemy.com/templates/
+cta_alt:
+  label: Ask a question
+  url: https://discord.gg/z8wNYzb
 ---
 <!--StartFragment-->
 
