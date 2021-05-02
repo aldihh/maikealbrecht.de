@@ -11,7 +11,7 @@ design:
   background:
     text_color_light: true
     image_darken: 1
-    image: zen.jpg
+    image: /assets/media/maike-albrecht_willkommen.jpg
     gradient_start: ""
     gradient_end: ""
 ---
