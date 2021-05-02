@@ -3,7 +3,7 @@ widget: hero
 active: true
 cta:
   label: Buche einen kostenlosen Info-Termin
-  url: https://wowchemy.com/templates/
+  url: https://calendly.com/maikealbrecht
 widget_id: hero
 headless: true
 weight: 10
@@ -11,7 +11,7 @@ title: ""
 subtitle: Subtitle
 cta_alt:
   label: Lerne mehr über Systemische Beratung
-  url: https://discord.gg/z8wNYzb
+  url: https://maikealbrecht.de
 design:
   columns: "1"
   background:
