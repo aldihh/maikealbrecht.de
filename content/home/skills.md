@@ -26,5 +26,5 @@ feature:
     icon_pack: fas
     name: Teamentwicklung
 widget_id: Angebot
-active: false
+active: true
 ---
