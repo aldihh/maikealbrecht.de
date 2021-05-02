@@ -9,6 +9,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: /assets/media/junge-mit-flügeln.jpg
+    image: junge-mit-flügeln.jpg
 ---
 ![](/assets/media/junge-mit-flügeln.jpg)
