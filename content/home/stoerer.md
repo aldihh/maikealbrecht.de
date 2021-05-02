@@ -11,4 +11,4 @@ design:
     image_darken: 0
     image: ""
 ---
-![](/assets/media/junge.jpg)
+![](junge.jpg)
