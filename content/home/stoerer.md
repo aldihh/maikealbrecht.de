@@ -9,7 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: /assets/media/junge.jpg
+    image: junge.jpg
 ---
 <br>
 
