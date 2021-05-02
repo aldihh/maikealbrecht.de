@@ -2,7 +2,7 @@
 widget: featurette
 headless: true
 weight: 30
-title: Angebot
+title: Was sind Deine Herausforderungen?
 subtitle: null
 feature:
   - description: null
