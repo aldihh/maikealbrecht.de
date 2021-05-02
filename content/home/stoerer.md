@@ -29,4 +29,4 @@ design:
 
 <br>
 
-![]()
+![](/assets/media/junge.jpg)
