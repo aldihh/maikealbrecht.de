@@ -1,11 +1,17 @@
 ---
 widget: hero
+active: true
+cta:
+  label: Buche einen kostenlosen Info-Termin
+  url: https://wowchemy.com/templates/
 widget_id: hero
 headless: true
 weight: 10
 title: ""
 subtitle: Subtitle
-active: true
+cta_alt:
+  label: Lerne mehr über Systemische Beratung
+  url: https://discord.gg/z8wNYzb
 design:
   columns: "1"
   background:
@@ -14,12 +20,6 @@ design:
     image: willkommen.jpg
     gradient_start: ""
     gradient_end: ""
-cta:
-  label: 'Buche einen kostenlosen Info-Termin'
-  url: https://wowchemy.com/templates/
-cta_alt:
-  label: Lerne mehr über Systemische Beratung
-  url: https://discord.gg/z8wNYzb
 ---
 <!--StartFragment-->
 
@@ -27,7 +27,11 @@ cta_alt:
 
 <br>
 
-# Wer glücklich sein, will braucht Mut... Mut zur Veränderung, neue Brücken zu bauen, alte Pfade zu verlassen, und neue Wege zu gehen. Manchmal braucht es dazu eine Unterstützung!
+# Wer glücklich sein, will braucht Mut... 
+
+Mut zur Veränderung, neue Brücken zu bauen, alte Pfade zu verlassen, und neue Wege zu gehen. 
+
+Manchmal braucht es dazu eine Unterstützung!
 
 <br>
 
