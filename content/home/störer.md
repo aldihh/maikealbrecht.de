@@ -10,4 +10,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-![](/assets/media/junge-mit-flügeln.jpg)
+![](junge-mit-flügeln.jpg)
