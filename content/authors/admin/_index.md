@@ -1,4 +1,5 @@
 ---
+title: Maike Albrecht
 role: Bachelor of Science (Occupational Therapy)
 avatar_filename: avatar.jpg
 bio: Ich interessiere mich für Systemische Beratung, Coaching und
@@ -25,11 +26,14 @@ education:
     - course: Systemische Beratung
       institution: Institut für Systemische Studien Hamburg
       year: 2021
+email: ""
 superuser: true
 highlight_name: false
-title: Maike Albrecht
-email: ""
 ---
-Seit vielen Jahren beschäftige ich mich mit der Beratung von Klient:innen bei unterschiedlichsten Fragestellungen. 
+Hi, ich bin Maike,
 
+ich glaube daran, dass Veränderungen für jeden von uns zu schaffen sind. Niemand muss damit leben, unzufrieden zu sein - mit sich selbst, mit dem Job oder den eigenen Lebensumständen.
 
+Jeder hat es verdient, glücklich zu sein - und so zu leben wie er/sie es möchte. Manchmal fallen Veränderungen schwer - oder das Ziel ist noch nicht ganz klar. Du brauchst vielleicht etwas Orientierung - oder jemanden, der Dich dabei unterstützt, Dich zu sortieren.
+
+Hier unterstütze ich Dich gerne! Ich begleite seit vielen Jahren Menschen in Entwicklungs- und Veränderungsprozessen. Nutze meine Erfahrung - und lasse Dich von mir begleiten!
