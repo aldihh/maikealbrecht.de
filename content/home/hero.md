@@ -3,9 +3,9 @@ widget: hero
 widget_id: hero
 headless: true
 weight: 10
-title: "> #### Wer glücklich sein, will braucht Mut... > > #### Mut zur
-  Veränderung, > > #### neue Brücken zu bauen, > > #### alte Pfade zu
-  verlassen,  > > #### und neue Wege zu gehen."
+title: Wer glücklich sein, will braucht Mut... Mut zur Veränderung, neue Brücken
+  zu bauen, alte Pfade zu verlassen, und neue Wege zu gehen. Manchmal braucht es
+  dazu eine Unterstützung!
 subtitle: Subtitle
 active: true
 design:
