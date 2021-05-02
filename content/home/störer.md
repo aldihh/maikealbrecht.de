@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: Störer
+widget_id: Stoerer
 headless: true
 weight: 10
 active: true
