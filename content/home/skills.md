@@ -6,24 +6,24 @@ title: Was sind Deine Herausforderungen?
 subtitle: null
 feature:
   - description: null
-    icon: r-project
-    icon_pack: fab
-    name: Berufliche Neuorinetierung
+    icon: map-signs
+    icon_pack: ai
+    name: Berufliche Neuorientierung
   - description: null
-    icon: chart-line
-    icon_pack: fas
-    name: Führungscoaching
+    icon: users
+    icon_pack: ai
+    name: Führungsthemen
   - description: null
-    icon: chart-line
-    icon_pack: fas
-    name: Beratung in herausfordernden beruflichen Situationen
+    icon: bomb
+    icon_pack: ai
+    name: Konflikte im Privaten oder beruflichen Umfeld
   - description: null
-    icon: chart-line
-    icon_pack: fas
-    name: Supervision
+    icon: rocket
+    icon_pack: ai
+    name: Deine eigene Weiterentwicklung
   - description: null
-    icon: chart-line
-    icon_pack: fas
+    icon: sitemap
+    icon_pack: ai
     name: Teamentwicklung
 widget_id: Angebot
 active: true
