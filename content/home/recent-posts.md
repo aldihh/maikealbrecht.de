@@ -4,7 +4,7 @@ widget_id: Preise
 headless: true
 weight: 20
 title: Preise
-active: true
+active: false
 design:
   columns: "2"
   background:
