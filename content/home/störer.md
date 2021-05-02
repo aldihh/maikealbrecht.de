@@ -1,6 +1,6 @@
 ---
-widget: blank
-widget_id: Stoerer
+widget: Blank
+widget_id: Störer
 headless: true
 weight: 10
 active: true
@@ -9,5 +9,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    image: /assets/media/junge-mit-flügeln.jpg
 ---
-![](junge-mit-flügeln.jpg)
+![](/assets/media/junge-mit-flügeln.jpg)
