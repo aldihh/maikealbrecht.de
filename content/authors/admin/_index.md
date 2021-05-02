@@ -1,6 +1,6 @@
 ---
 title: Maike Albrecht
-role: Bachelor of Science (Occupational Therapy)
+role: Bachelor of Science (Occupational Therapy) / Systemische Beraterin
 avatar_filename: avatar.jpg
 bio: Ich interessiere mich für Systemische Beratung, Coaching und
   Teamentwicklung/ Supervision
