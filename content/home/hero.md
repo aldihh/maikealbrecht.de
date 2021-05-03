@@ -18,7 +18,7 @@ design:
     text_color_light: true
     image_darken: 1
     image: willkommen.jpg
-    focal_point: "Right"
+    focal_point: "Left"
     gradient_start: ""
     gradient_end: ""
 ---
