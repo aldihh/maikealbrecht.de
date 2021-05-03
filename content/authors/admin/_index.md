@@ -36,4 +36,4 @@ ich glaube daran, dass Veränderungen für jeden von uns zu schaffen sind. Niema
 
 Jeder hat es verdient, glücklich zu sein - und so zu leben wie er/sie es möchte. Manchmal fallen Veränderungen schwer - oder das Ziel ist noch nicht ganz klar. Du brauchst vielleicht etwas Orientierung - oder jemanden, der Dich dabei unterstützt, Dich zu sortieren.
 
-Hier unterstütze ich Dich gerne! Ich begleite seit vielen Jahren Menschen in Entwicklungs- und Veränderungsprozessen. Nutze meine Erfahrung - und lasse Dich von mir begleiten!
+Hier helfe ich Dich gerne! Ich begleite seit vielen Jahren Menschen in Entwicklungs- und Veränderungsprozessen. Nutze meine Erfahrung - und lasse Dich von mir beraten!
