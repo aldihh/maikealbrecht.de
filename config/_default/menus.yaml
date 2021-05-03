@@ -3,6 +3,8 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+cta: cta_text="Do something" cta_link="/" cta_new_tab="false"
+
 main:
   - name: Home
     url: '#about'
@@ -22,7 +24,7 @@ main:
   - name: Kontakt
     url: '#contact'
     weight: 60
-- cta: cta_text="Do something" cta_link="/" cta_new_tab="false"
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
