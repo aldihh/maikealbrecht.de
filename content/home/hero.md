@@ -13,7 +13,7 @@ cta_alt:
   label: Lerne mehr über Systemische Beratung
   url: https://maikealbrecht.de
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: true
     image_darken: 1
