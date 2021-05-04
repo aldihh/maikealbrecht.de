@@ -9,9 +9,11 @@ design:
   background:
     text_color_light: false
     image_darken: 0
----
 
 gallary_item:
 - album: 'gallary'
   image: 'Einzelsession.png'
   caption: 'Write your image caption here'
+---
+
+
