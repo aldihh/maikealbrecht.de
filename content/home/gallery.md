@@ -2,7 +2,7 @@
 widget: blank
 widget_id: gallery
 headless: true
-weight: 70
+weight: 75
 active: true
 design:
   columns: "1"
