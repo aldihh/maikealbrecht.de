@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: AngebotGallery
+widget_id: angebotgallery
 headless: true
 weight: 40
 active: true
