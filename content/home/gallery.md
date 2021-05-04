@@ -12,8 +12,8 @@ design:
 ---
 
 
-![](infosession.png)
+![](assets/media/infosession.png)
 
-![](einzelsession.png)
+![](assets/media/einzelsession.png)
 
-![](schnuppercoaching.png)
+![](assets/media/schnuppercoaching.png)
