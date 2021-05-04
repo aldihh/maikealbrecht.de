@@ -9,6 +9,9 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+
+{{< gallery album="angebot" >}}
+
 gallery_item:
 - album: angebot/
   image: infosession.png
