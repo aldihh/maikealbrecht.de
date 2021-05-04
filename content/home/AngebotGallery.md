@@ -14,14 +14,14 @@ design:
 
 gallery_item:
 - album: angebot
-  image: infosession.jpg
+  image: Infosession.jpg
   caption: infosession
 - album: angebot
-  image: einzelsession.png
+  image: Einzelsession.png
   caption: Einzelsession
 - album: angebot
-  image: schnuppercoaching.png
+  image: Schnuppercoaching.png
   caption: Schnuppercoaching
 ---
 <gallery album="angebot">
-{{< angebot >}}
+
