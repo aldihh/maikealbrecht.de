@@ -13,7 +13,7 @@ design:
 
 
 gallery_item:
-- album: angebot
+- album: "angebot/"
   image: Infosession.jpg
   caption: infosession
 - album: angebot
@@ -23,5 +23,5 @@ gallery_item:
   image: Schnuppercoaching.png
   caption: Schnuppercoaching
 ---
-<gallery album="angebot">
+<gallery album="angebot/">
 
