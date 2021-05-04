@@ -23,4 +23,4 @@ gallery_item:
   image: schnuppercoaching.png
   caption: Schnuppercoaching
 ---
-<gallery angebot>
+<gallery album="angebot/">
