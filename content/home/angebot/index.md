@@ -13,4 +13,4 @@ title: angebot
 subtitle:
 ---
 
-{{< angebot >}}
+{{< gallery >}}
