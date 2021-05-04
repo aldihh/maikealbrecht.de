@@ -11,4 +11,7 @@ design:
     image_darken: 0
 ---
 
-{{ < gallery album="gallary"> }}
+gallary_item:
+- album: 'gallary'
+  image: 'Einzelsession.png'
+  caption: 'Write your image caption here'
