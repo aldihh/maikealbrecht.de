@@ -12,4 +12,4 @@ design:
 ---
 
 
-{{< gallery album="angebot" >}}
+{{< gallery album="gallery" >}}
