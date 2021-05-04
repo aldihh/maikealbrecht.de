@@ -19,3 +19,4 @@ gallery_item:
 - album: angebot/
   image: schnuppercoaching.png
   caption: Schnuppercoaching
+---
