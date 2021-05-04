@@ -12,7 +12,7 @@ design:
 
 gallary_item:
 - album: 'gallary'
-  image: 'Einzelsession.png'
+  image: 'conten/home/gallary/gallaryEinzelsession.png'
   caption: 'Write your image caption here'
 ---
 
