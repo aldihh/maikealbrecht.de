@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: Angebot_Gallery
+widget_id: AngebotGallery
 headless: true
 weight: 40
 active: true
@@ -24,3 +24,4 @@ gallery_item:
   caption: Schnuppercoaching
 ---
 <gallery album="angebot">
+{{< angebot >}}
