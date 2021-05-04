@@ -10,7 +10,7 @@ design:
     text_color_light: false
     image_darken: 0
 
-{{< gallery album="angebot" >}}
+
 
 gallery_item:
 - album: angebot/
@@ -23,3 +23,4 @@ gallery_item:
   image: schnuppercoaching.png
   caption: Schnuppercoaching
 ---
+{{< gallery album="angebot" >}}
