@@ -14,7 +14,7 @@ design:
 
 gallery_item:
 - album: angebot
-  image: infosession.png
+  image: infosession.jpg
   caption: infosession
 - album: angebot
   image: einzelsession.png
